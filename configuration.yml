@@ -1,0 +1,10 @@
+urls:
+  api_url: https://mobilapi.albayrakdemircelik.com
+  site_url: https://albayrakdemircelik.com
+  contact: /contact
+  about-us: /about-us
+  privacy-policy: /privacy-policy
+  terms-of-service: /terms-of-service
+  faq: /faq
+  gdpr: /gdpr
+  
